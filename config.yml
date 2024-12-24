@@ -1,4 +1,4 @@
-repo: https://github.com/chainreactors/picker
+repo: https://github.com/MM0x00/RSS-Push
 proxy:
   url: 'http://127.0.0.1:7890'
   rss: false
