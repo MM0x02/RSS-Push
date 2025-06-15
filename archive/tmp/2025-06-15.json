@@ -1,0 +1,133 @@
+{
+    "SecWiki News": {
+        "SecWiki News 2025-06-14 Review": "http://www.sec-wiki.com/?2025-06-14"
+    },
+    "Recent Commits to cve:main": {
+        "Update Sat Jun 14 16:01:21 UTC 2025": "https://github.com/trickest/cve/commit/da8e95c1d28df002f9dd58c8365e081a1ba8baee"
+    },
+    "Security Boulevard": {
+        "Secure Your Machine Identities Effectively": "https://securityboulevard.com/2025/06/secure-your-machine-identities-effectively/?utm_source=rss&utm_medium=rss&utm_campaign=secure-your-machine-identities-effectively",
+        "Are Your Cloud Secrets Safe From Threats?": "https://securityboulevard.com/2025/06/are-your-cloud-secrets-safe-from-threats/?utm_source=rss&utm_medium=rss&utm_campaign=are-your-cloud-secrets-safe-from-threats",
+        "Why Proactive NHI Management is a Must?": "https://securityboulevard.com/2025/06/why-proactive-nhi-management-is-a-must/?utm_source=rss&utm_medium=rss&utm_campaign=why-proactive-nhi-management-is-a-must",
+        "How Can NHIs Enhance Overall System Security?": "https://securityboulevard.com/2025/06/how-can-nhis-enhance-overall-system-security/?utm_source=rss&utm_medium=rss&utm_campaign=how-can-nhis-enhance-overall-system-security",
+        "Top 10 Challenges Implementing DMARC in GWS": "https://securityboulevard.com/2025/06/top-10-challenges-implementing-dmarc-in-gws/?utm_source=rss&utm_medium=rss&utm_campaign=top-10-challenges-implementing-dmarc-in-gws",
+        "LinuxFest Northwest: See How Far COSMIC Has Come This Year": "https://securityboulevard.com/2025/06/linuxfest-northwest-see-how-far-cosmic-has-come-this-year/?utm_source=rss&utm_medium=rss&utm_campaign=linuxfest-northwest-see-how-far-cosmic-has-come-this-year",
+        "OAuth 2.0 Security Best Practices: How to Secure OAuth Tokens & Why Use PKCE": "https://securityboulevard.com/2025/06/oauth-2-0-security-best-practices-how-to-secure-oauth-tokens-why-use-pkce/?utm_source=rss&utm_medium=rss&utm_campaign=oauth-2-0-security-best-practices-how-to-secure-oauth-tokens-why-use-pkce"
+    },
+    "Private Feed for M09Ic": {
+        "safedv starred google/alioth": "https://github.com/google/alioth",
+        "safedv starred rad9800/byor": "https://github.com/rad9800/byor",
+        "mgeeky starred mverschu/CVE-2025-33073": "https://github.com/mverschu/CVE-2025-33073",
+        "mgeeky starred dslee2022/SignatureKid": "https://github.com/dslee2022/SignatureKid",
+        "glzjin forked glzjin/sdnagent from yunionio/sdnagent": "https://github.com/glzjin/sdnagent",
+        "Ak74-577 starred mverschu/CVE-2025-33073": "https://github.com/mverschu/CVE-2025-33073",
+        "CHYbeta starred YFGaia/dify-plus": "https://github.com/YFGaia/dify-plus",
+        "Ridter forked Ridter/ChromeExtensionInstall from aleenzz/ChromeExtensionInstall": "https://github.com/Ridter/ChromeExtensionInstall",
+        "Ridter starred aleenzz/ChromeExtensionInstall": "https://github.com/aleenzz/ChromeExtensionInstall",
+        "safedv starred mverschu/CVE-2025-33073": "https://github.com/mverschu/CVE-2025-33073",
+        "zema1 starred 4ESTSEC/wxvl": "https://github.com/4ESTSEC/wxvl",
+        "mgeeky starred HullaBrian/COMmander": "https://github.com/HullaBrian/COMmander",
+        "CHYbeta starred zfanswer/dify-on-dingtalk": "https://github.com/zfanswer/dify-on-dingtalk",
+        "Ridter starred netbirdio/netbird": "https://github.com/netbirdio/netbird",
+        "CHYbeta starred nimbusdotstorage/Nimbus": "https://github.com/nimbusdotstorage/Nimbus",
+        "memN0ps starred cody-why/r-dashboard": "https://github.com/cody-why/r-dashboard",
+        "memN0ps starred bet4it/udbserver": "https://github.com/bet4it/udbserver",
+        "Ridter starred mverschu/CVE-2025-33073": "https://github.com/mverschu/CVE-2025-33073"
+    },
+    "Bug Bounty in InfoSec Write-ups on Medium": {
+        "Weak Regex, Big Mess: How I Escaped Input Validation with One Tiny Character": "https://infosecwriteups.com/weak-regex-big-mess-how-i-escaped-input-validation-with-one-tiny-character-9ead1deccffa?source=rss----7b722bfd1b8d--bug_bounty",
+        "$500 Bounty: XSS via javascript: URLs": "https://infosecwriteups.com/500-bounty-xss-via-javascript-urls-a04900631701?source=rss----7b722bfd1b8d--bug_bounty"
+    },
+    "Hexacorn": {
+        "wermgr.exe boot offdmpsvc.dll lolbin": "https://www.hexacorn.com/blog/2025/06/14/wermgr-exe-boot-offdmpsvc-dll-lolbin/",
+        "wpr.exe boottrace phantom dll axeonoffhelper.dll lolbin": "https://www.hexacorn.com/blog/2025/06/14/wpr-exe-boottrace-phantom-dll-axeonoffhelper-dll-lolbin/"
+    },
+    "Didier Stevens": {
+        "Update: virustotal-search.py Version 0.1.9": "https://blog.didierstevens.com/2025/06/14/update-virustotal-search-py-version-0-1-9/"
+    },
+    "Reverse Engineering": {
+        "Debug & Modify Game Memory in Real-Time with WinDbg | GTA Vice City | Reverse Engineering": "https://www.reddit.com/r/ReverseEngineering/comments/1lbb27u/debug_modify_game_memory_in_realtime_with_windbg/",
+        "Basic & Necessary Tooling for Creating FPGA Retro Hardware Game Cores by Pramod": "https://www.reddit.com/r/ReverseEngineering/comments/1lblrm8/basic_necessary_tooling_for_creating_fpga_retro/",
+        "GitHub - xKiian/awswaf: AWS WAF Solver, full reverse implemented in 100% Python & Golang.": "https://www.reddit.com/r/ReverseEngineering/comments/1lbak7o/github_xkiianawswaf_aws_waf_solver_full_reverse/",
+        "Private Server for a MMOTPS game": "https://www.reddit.com/r/ReverseEngineering/comments/1lbhv2l/private_server_for_a_mmotps_game/"
+    },
+    "HAHWUL": {
+        "The Art of Agentic Coding": "https://www.hahwul.com/blog/2025/agentic-coding/"
+    },
+    "Malware-Traffic-Analysis.net - Blog Entries": {
+        "2025-06-13: Traffic analysis exercise: It's a trap!": "https://www.malware-traffic-analysis.net/2025/06/13/index.html"
+    },
+    "奇客Solidot–传递最新科技情报": {
+        "人类首次拍摄到太阳南极": "https://www.solidot.org/story?sid=81557",
+        "因 AI 科技巨头的间接碳排放自 2020 年以来增长了 50%": "https://www.solidot.org/story?sid=81556"
+    },
+    "安全内参": {
+        "北京2家公司个人信息数据遭境外IP窃取被罚5万元": "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247514517&idx=1&sn=85c05d1e9db9499907a269944c93a2bc"
+    },
+    "安全学术圈": {
+        "中科院信工所 | 福尔摩斯与华生：通过HTTP版本并行性实现鲁棒轻量级的HTTPS网站指纹识别": "https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247492534&idx=1&sn=d42e37f15e54a39003eab2a683abc0db"
+    },
+    "dotNet安全矩阵": {
+        ".NET 2025年第 76 期工具库和资源汇总": "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247499864&idx=1&sn=40b8bdd2527f6561ed75954dcf88c188",
+        "报名学习 | 国内最专业、最全面的 [ .NET 代码审计 ] 体系化视频学习课程": "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247499864&idx=2&sn=71dbb3f561975237ce7995e923ada4ee",
+        "记一次渗透实战中对 .NET 伪加密存储的审计": "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247499864&idx=3&sn=0462388131940f60aab1811d81bf2034"
+    },
+    "极客公园": {
+        "消息称腾讯未考虑收购 Nexon；追觅否认「断指计划」；李国庆与俞渝就财产分割达成最终和解 | 极客早知道": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653081234&idx=1&sn=3e5a584ca154dcde74b86b8784906633"
+    },
+    "看雪学苑": {
+        "驱动挂钩所有内核导出函数来进行驱动逻辑分析": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458595727&idx=1&sn=9f3708ee6e109504785a4827d2de931b",
+        "Frida编译调试与Hook技术实战：赠 android rat源码供学习": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458595727&idx=2&sn=c8faf4726ea8150e2390fda3c4cc9803"
+    },
+    "情报分析师": {
+        "以色列\"狮子的力量\"行动背后的情报战全景复盘": "https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650561346&idx=1&sn=25ce12b48f553313e74c18ef5da10aeb"
+    },
+    "网络安全回收站": {
+        "安卓智能体：MobileAgent分析及体验": "https://mp.weixin.qq.com/s?__biz=Mzg2MTc1NDAxMA==&mid=2247484431&idx=1&sn=56d4b591b26d969137d94585cb998ea0"
+    },
+    "Over Security - Cybersecurity news aggregator": {
+        "Windows 11 users want these five features back": "https://www.bleepingcomputer.com/news/microsoft/windows-11-users-want-these-five-features-back/",
+        "Anubis ransomware adds wiper to destroy files beyond recovery": "https://www.bleepingcomputer.com/news/security/anubis-ransomware-adds-wiper-to-destroy-files-beyond-recovery/",
+        "WestJet investigates cyberattack disrupting internal systems": "https://www.bleepingcomputer.com/news/security/westjet-investigates-cyberattack-disrupting-internal-systems/",
+        "Nuovo calendario delle live": "https://roccosicilia.com/2025/06/14/nuovo-calendario-delle-live/"
+    },
+    "ICT Security Magazine": {
+        "Gli LLM: lama dalla punta spezzata?": "https://www.ictsecuritymagazine.com/articoli/llm/"
+    },
+    "SANS Internet Storm Center, InfoCON: green": {
+        "More Steganography&#x21;, (Sat, Jun 14th)": "https://isc.sans.edu/diary/rss/32044"
+    },
+    "The Hacker News": {
+        "Discord Invite Link Hijacking Delivers AsyncRAT and Skuld Stealer Targeting Crypto Wallets": "https://thehackernews.com/2025/06/discord-invite-link-hijacking-delivers.html"
+    },
+    "TorrentFreak": {
+        "Record Labels Rebuff U.S. Government in Landmark ISP Piracy Liability Showdown": "https://torrentfreak.com/record-labels-rebuff-u-s-government-in-landmark-isp-piracy-liability-showdown/"
+    },
+    "Deep Web": {
+        "Indie Symbolic Cartoon": "https://www.reddit.com/r/deepweb/comments/1lavuvn/indie_symbolic_cartoon/"
+    },
+    "Blackhat Library: Hacking techniques and research": {
+        "Change your IP address every 2 seconds | Change your IP like a H4cker | IP Bouncing": "https://www.reddit.com/r/blackhat/comments/1lb2pgt/change_your_ip_address_every_2_seconds_change/"
+    },
+    "Social Engineering": {
+        "Friend not paying me?": "https://www.reddit.com/r/SocialEngineering/comments/1lbdd34/friend_not_paying_me/",
+        "Manipulative fenale classmate. What should i do?": "https://www.reddit.com/r/SocialEngineering/comments/1lb6659/manipulative_fenale_classmate_what_should_i_do/"
+    },
+    "Security Affairs": {
+        "Palo Alto Networks fixed multiple privilege escalation flaws": "https://securityaffairs.com/179000/security/palo-alto-networks-fixed-multiple-privilege-escalation-flaws.html",
+        "Unusual toolset used in recent Fog Ransomware attack": "https://securityaffairs.com/178969/malware/unusual-toolset-used-in-recent-fog-ransomware-attack.html"
+    },
+    "Computer Forensics": {
+        "Building a business in IT forensics": "https://www.reddit.com/r/computerforensics/comments/1lbetn9/building_a_business_in_it_forensics/",
+        "SHSU PHD PROGRAM IN DIGITAL FORENSICS": "https://www.reddit.com/r/computerforensics/comments/1lbdksi/shsu_phd_program_in_digital_forensics/"
+    },
+    "Technical Information Security Content & Discussion": {
+        "GIMP Heap Overflow Re-Discovery and Exploitation (CVE-2025–6035)": "https://www.reddit.com/r/netsec/comments/1lbcbap/gimp_heap_overflow_rediscovery_and_exploitation/",
+        "Make Self-XSS Great Again": "https://www.reddit.com/r/netsec/comments/1lb3wfp/make_selfxss_great_again/"
+    },
+    "netsecstudents: Subreddit for students studying Network Security and its related subjects": {
+        "CV": "https://www.reddit.com/r/netsecstudents/comments/1lbd6o2/cv/",
+        "Hacking Hidden WiFi Networks": "https://www.reddit.com/r/netsecstudents/comments/1lb49dk/hacking_hidden_wifi_networks/",
+        "Change your IP address every 2 seconds | Change your IP like a H4cker | IP Bouncing": "https://www.reddit.com/r/netsecstudents/comments/1lb2p5w/change_your_ip_address_every_2_seconds_change/"
+    }
+}
